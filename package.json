@@ -1,0 +1,9 @@
+{
+  "name": "@tkvw/shorts",
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
